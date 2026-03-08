@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|c:\\users\\\uC774\uB2E4\uD604\\source\\repos\\modbusgui\\modbusgui\\protocol\\modbusclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|solutionrelative:modbusgui\\protocol\\modbusclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\modbusgui\\monitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|solutionrelative:modbusgui\\monitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\modbusgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|solutionrelative:modbusgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|c:\\users\\\uC774\uB2E4\uD604\\source\\repos\\modbusgui\\modbusgui\\transports\\tcptransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|solutionrelative:modbusgui\\transports\\tcptransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|c:\\users\\\uC774\uB2E4\uD604\\source\\repos\\modbusgui\\modbusgui\\transports\\serialtransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|solutionrelative:modbusgui\\transports\\serialtransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|c:\\users\\\uC774\uB2E4\uD604\\source\\repos\\modbusgui\\modbusgui\\transports\\imodbustransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|solutionrelative:modbusgui\\transports\\imodbustransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|c:\\users\\\uC774\uB2E4\uD604\\source\\repos\\modbusgui\\modbusgui\\monitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|solutionrelative:modbusgui\\monitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|c:\\users\\\uC774\uB2E4\uD604\\source\\repos\\modbusgui\\modbusgui\\models\\modbusresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|solutionrelative:modbusgui\\models\\modbusresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|c:\\users\\\uC774\uB2E4\uD604\\source\\repos\\modbusgui\\modbusgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|solutionrelative:modbusgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|c:\\users\\\uC774\uB2E4\uD604\\source\\repos\\modbusgui\\modbusgui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|solutionrelative:modbusgui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|c:\\users\\\uC774\uB2E4\uD604\\source\\repos\\modbusgui\\modbusgui\\form1.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|solutionrelative:modbusgui\\form1.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|c:\\users\\\uC774\uB2E4\uD604\\source\\repos\\modbusgui\\modbusgui\\monitorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|solutionrelative:modbusgui\\monitorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|c:\\users\\\uC774\uB2E4\uD604\\source\\repos\\modbusgui\\modbusgui\\protocol\\crc16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35FD109C-72B7-8AD2-26A1-48A248CA3A11}|ModbusGUI\\ModbusGUI.csproj|solutionrelative:modbusgui\\protocol\\crc16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MonitorForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\MonitorForm.Designer.cs",
+              "RelativeDocumentMoniker": "ModbusGUI\\MonitorForm.Designer.cs",
+              "ToolTip": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\MonitorForm.Designer.cs",
+              "RelativeToolTip": "ModbusGUI\\MonitorForm.Designer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T05:25:40.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MonitorForm.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\MonitorForm.cs",
+              "RelativeDocumentMoniker": "ModbusGUI\\MonitorForm.cs",
+              "ToolTip": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\MonitorForm.cs",
+              "RelativeToolTip": "ModbusGUI\\MonitorForm.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T05:20:20.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MonitorForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\MonitorForm.cs",
+              "RelativeDocumentMoniker": "ModbusGUI\\MonitorForm.cs",
+              "ToolTip": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\MonitorForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "ModbusGUI\\MonitorForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T05:19:15.613Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\Form1.resx",
+              "RelativeDocumentMoniker": "ModbusGUI\\Form1.resx",
+              "ToolTip": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\Form1.resx",
+              "RelativeToolTip": "ModbusGUI\\Form1.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-02-04T01:25:52.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ModbusGUI\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\Form1.Designer.cs",
+              "RelativeToolTip": "ModbusGUI\\Form1.Designer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA0wAUBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:46:19.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "ModbusGUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "ModbusGUI\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:02:30.722Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SerialTransport.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\Transports\\SerialTransport.cs",
+              "RelativeDocumentMoniker": "ModbusGUI\\Transports\\SerialTransport.cs",
+              "ToolTip": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\Transports\\SerialTransport.cs",
+              "RelativeToolTip": "ModbusGUI\\Transports\\SerialTransport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA0wCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:26:20.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Crc16.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\Protocol\\Crc16.cs",
+              "RelativeDocumentMoniker": "ModbusGUI\\Protocol\\Crc16.cs",
+              "ToolTip": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\Protocol\\Crc16.cs",
+              "RelativeToolTip": "ModbusGUI\\Protocol\\Crc16.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:22:18.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IModbusTransport.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\Transports\\IModbusTransport.cs",
+              "RelativeDocumentMoniker": "ModbusGUI\\Transports\\IModbusTransport.cs",
+              "ToolTip": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\Transports\\IModbusTransport.cs",
+              "RelativeToolTip": "ModbusGUI\\Transports\\IModbusTransport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:27:39.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "ModbusGUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\Form1.cs",
+              "RelativeToolTip": "ModbusGUI\\Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAASwCgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:19:19.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TcpTransport.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\Transports\\TcpTransport.cs",
+              "RelativeDocumentMoniker": "ModbusGUI\\Transports\\TcpTransport.cs",
+              "ToolTip": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\Transports\\TcpTransport.cs",
+              "RelativeToolTip": "ModbusGUI\\Transports\\TcpTransport.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:19:00.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModbusClient.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\Protocol\\ModbusClient.cs",
+              "RelativeDocumentMoniker": "ModbusGUI\\Protocol\\ModbusClient.cs",
+              "ToolTip": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\Protocol\\ModbusClient.cs",
+              "RelativeToolTip": "ModbusGUI\\Protocol\\ModbusClient.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAowGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:18:44.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModbusResult.cs",
+              "DocumentMoniker": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\Models\\ModbusResult.cs",
+              "RelativeDocumentMoniker": "ModbusGUI\\Models\\ModbusResult.cs",
+              "ToolTip": "C:\\Users\\\uC774\uB2E4\uD604\\source\\repos\\ModbusGUI\\ModbusGUI\\Models\\ModbusResult.cs",
+              "RelativeToolTip": "ModbusGUI\\Models\\ModbusResult.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:18:21.678Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
